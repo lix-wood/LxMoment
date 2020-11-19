@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/lx_moment.iml" filepath="$PROJECT_DIR$/lx_moment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/lxmoment_android.iml" filepath="$PROJECT_DIR$/android/lxmoment_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example/android/lxmoment_example_android.iml" filepath="$PROJECT_DIR$/example/android/lxmoment_example_android.iml" />
+    </modules>
+  </component>
+</project>
