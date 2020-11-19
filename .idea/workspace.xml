@@ -2,14 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6d3c4335-944f-4f78-a801-bf958e97e683" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/lib/src/lx_moment_delimiter.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/lx_moment_format.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/lx_moment_lang.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/lx_moment_tools.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/lx_moment.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/lx_moment.dart" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -21,6 +32,9 @@
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\alipush\lx_moment\lib\src" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\alipush\lx_moment\lib" />
     </key>

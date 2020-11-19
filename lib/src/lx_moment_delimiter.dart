@@ -1,0 +1,1 @@
+enum Delimiter { oblique, cross }
